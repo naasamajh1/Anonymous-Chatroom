@@ -158,7 +158,7 @@ JWT_EXPIRES_IN=7d
 GROQ_API_KEY=your_groq_api_key
 
 # Default admin credentials
-ADMIN_EMAIL=admin@gmail.com
+ADMIN_EMAIL=admin_mail
 ADMIN_PASSWORD=YourSecurePassword
 
 # Client URL (must match Vite dev server)
